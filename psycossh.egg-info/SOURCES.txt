@@ -1,6 +1,0 @@
-setup.py
-psycossh/__init__.py
-psycossh.egg-info/PKG-INFO
-psycossh.egg-info/SOURCES.txt
-psycossh.egg-info/dependency_links.txt
-psycossh.egg-info/top_level.txt
